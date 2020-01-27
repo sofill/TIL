@@ -1,0 +1,26 @@
+<HTML>
+<HEAD>
+<TITLE> New Document </TITLE>
+</HEAD>
+
+<BODY>
+<table border="1">
+		<tr>
+				<td>이름</td>
+				<td><input type="text" name="name"></td>
+		</tr>
+		<tr>
+				<td>제목</td>
+				<td><input type="text" name="subject"></td>
+		</tr>
+		<tr>
+				<td>내용</td>
+				<td><textarea name="content" cols="50" rows="15"></textarea></td>
+		</tr>
+		<tr>
+				<td colspan="2">[저장]&nbsp;&nbsp;&nbsp;[취소]</td>
+		</tr>
+</table>
+		
+</BODY>
+</HTML>
