@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My Lovely Space</title>
+		<link href="http://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
+	</head>
+	<body>
+		<!-- About me section start -->
+		<div class="section">
+			<h1><span>About Me</span></h1>
+			<p>
+			 Hey! I'm <strong>Sophia</strong>. Coding has changed my world. It's not just about apps. Learning to code gave me <i>problem-solving skills</i> and a way to communicate with others on a technical level.</br>
+			 I can also develop websites and use my coding skills to get a better job. And I learned it all at <strong>SoloLearn</strong> where they build your self-esteem and keep you motivated.</br> 
+			 Join me in this rewarding journey. You'll have fun, get help, and learn along the way!
+			</p>
+			<p class="quote">"Declare variables, not war"</p>
+		</div>
+		<!-- About ME section end -->
+	</body>
+</html>
